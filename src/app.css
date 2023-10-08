@@ -1,0 +1,18 @@
+.container {
+  width: 200px;
+  height: 250px;
+  display: flex;
+  flex-direction: column;
+}
+
+.input-search {
+  margin: 10px 0px 10px 0px;
+}
+
+.btn-find {
+  margin: 0px 0px 10px 0px;
+}
+
+.btn-find:hover {
+  cursor: pointer;
+}
